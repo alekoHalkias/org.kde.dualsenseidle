@@ -24,4 +24,6 @@ Follow the setup instructions in that repository to install and run the D-Bus se
 ### 1. Open terminal and Run the command from the downloaded location
 
 ```bash
+git clone https://github.com/alekoHalkias/org.kde.dualsenseidle
+cd org.kde.dualsenseidle
 kpackagetool6 --type Plasma/Applet -i .
