@@ -1,0 +1,7 @@
+module org.kde.dualsense
+linktarget dualsense
+optional plugin dualsense
+classname org_kde_dualsensePlugin
+typeinfo dualsense.qmltypes
+prefer :/qt/qml/org/kde/dualsense/
+

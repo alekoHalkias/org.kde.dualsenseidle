@@ -1,0 +1,19 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Id": "org.kde.dualsenseidle",
+    "Name": "DualSense Monitor",
+    "Description": "Show DualSense controller status and manage idle disconnect",
+    "Icon": "dualsense-white",
+    "License": "GPL-3.0",
+    "Authors": [
+      {
+        "Name": "Aleko Halkias"
+      }
+    ],
+    "EnabledByDefault": true,
+    "Category": "System"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "X-Plasma-NotificationAreaCategory": "SystemServices"
+}
