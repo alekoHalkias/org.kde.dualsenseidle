@@ -21,7 +21,7 @@ Follow the setup instructions in that repository to install and run the D-Bus se
 
 ## Installation
 
-### 1. Open terminal and Run the command 
+### 1. Open terminal and Run the command from the downloaded location
 
 ```bash
 kpackagetool6 --type Plasma/Applet -i .
